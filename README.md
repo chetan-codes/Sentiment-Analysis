@@ -7,8 +7,7 @@ Welcome to the Sentiment Analysis project! This project focuses on sentiment ana
 The dataset contains 1.26 million tweets sourced from Twitter API via Kaggle. It's available at [Kaggle Dataset](https://www.kaggle.com/kazanova/sentiment140).
 
 ### Files
-- `sentiment_analysis.ipynb`: Jupyter Notebook containing the Python code for data preprocessing, model building, and evaluation.
-- `dataset.csv`: CSV file containing the raw data.
+- `Coding_Sentiment_Analysis.ipynb`: Jupyter Notebook containing the Python code for data preprocessing, model building, and evaluation.
 
 ## Approach
 1. **Data Preprocessing**: Cleaning and preparing the text data for analysis.
